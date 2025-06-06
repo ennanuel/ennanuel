@@ -13,8 +13,8 @@ Want to see more? Check out my [portfolio website](https://ezema.netlify.app)!
 
 Here are a couple of cool ongoing projects I'm tinkering with:
 
-* **Tekst:** [https://tekst-live.netlify.app](https://tekst-live.netlify.app) - *A real-time text collaboration tool.*
-* **Scoreplug:** [https://scoreplug.vercel.app](https://scoreplug.vercel.app) - *Track and manage your scores effortlessly.*
+* **Tekst:** [https://tekst-live.netlify.app](https://tekst-live.netlify.app) - *Never worry about sharing text between devices.*
+* **Scoreplug:** [https://scoreplug.vercel.app](https://scoreplug.vercel.app) - *Your best inaccurate football (soccer) match predictor.*
 
 🛠️ Skills
 
